@@ -1,4 +1,4 @@
-CREATE DATABASE primer_dbv2; /* Crea la base de datos */
+CREATE DATABASE primer_db; /* Crea la base de datos */
 
 SHOW DATABASES;
 
